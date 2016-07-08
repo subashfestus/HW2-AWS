@@ -1,4 +1,4 @@
-# HW2-AWS
+# HW3-AWS
 
 Logged into the cloud academy site using the credintials given by the lecturer.Then created an AWS account providing the necessary details and tried the labs in the cloud academy site.
 
